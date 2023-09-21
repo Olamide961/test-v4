@@ -1,0 +1,25 @@
+ /* *{     UNIVERSAL PULL
+    margin: 0;
+    padding: 0;
+    color: red; 
+}*/
+
+body {
+    background-color: black;
+    padding: 40px;
+}
+
+h1 {
+    color:aqua;
+    font-size: 40px;
+     
+}
+
+h2 {
+    color:brown;
+}
+p {
+    color:beige;
+    padding: 10px;
+    background-color:cadetblue
+}
